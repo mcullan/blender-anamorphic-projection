@@ -10,9 +10,9 @@
 
 ## Installation
 
-1. Download this file.
+1. Clone this repository, or just download `anamorphic-projection-addon.py`
 2. In Blender, open the Preferences menu and click the Addons tab. 
-3. In the upper right corner of the pop up window, click the button that says "Install", which will bring up a file browser. Navigate to `anamorphic_projection_addon.py` and click ok.
+3. In the upper right corner of the pop up window, click the button that says "Install", which will bring up a file browser. Navigate to `anamorphic-projection-addon.py` and click ok.
 
 
 
